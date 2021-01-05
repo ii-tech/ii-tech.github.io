@@ -1,6 +1,6 @@
 body{margin:0;padding:0;background-color:#fff;font-family:Roboto;}
 img {border:0px;max-width:332px;}
-.feed-container{font-size:12px;border:1px solid #DDDDDD;}
+.feed-container{font-size:12px;border:1px solid #EEEEEE;}
 .feed-container .header{margin:0px;padding:5px 5px 5px 5px;color:#fff;background-color:#3366ff;background-image:url();}
 .feed-container .footer{margin:0px;padding:5px 5px 5px 5px;color:#000;background-color:#DDD;background-image:url();}
 .feed-container .header .title{margin:0;padding:0;font-weight:bold;}
