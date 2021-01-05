@@ -10,7 +10,7 @@ img {border:0px;max-width:332px;}
 .feed-container .header a:active{color:#fff;text-decoration:none;}
 .feed-container .content{margin:0px;padding:0 4px;background-color:#fff;background-image:url();}
 .feed-container .content .item{margin:0 0 7px 0;padding:0 0 7px 0;border-bottom:1px dashed #CCCCCC;}
-.feed-container .content .item .title{margin:1px 0 1px 3px;padding:1px 2px 1px 3px;color:#55a0ff;font-weight:bold;}
+.feed-container .content .item .title{margin:10px 0 1px 3px;padding:1px 2px 1px 3px;color:#55a0ff;font-weight:bold;}
 .feed-container .content .item .title a:link{color:#55a0ff;text-decoration:none;}
 .feed-container .content .item .title a:visited{color:#55a0ff;text-decoration:none;}
 .feed-container .content .item .title a:hover{color:#55a0ff;text-decoration:underline;}
