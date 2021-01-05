@@ -1,4 +1,4 @@
-body{margin:0;padding:50px 0 0 7px 0;;background-color:#ddd;font-family:Roboto;}
+body{margin:0;padding:0 0 0 7px 0;;background-color:#ddd;font-family:Roboto;}
 img {border:0px;max-width:332px;}
 .feed-container{font-size:12px;border:1px solid #CCCCCC;}
 .feed-container .header{margin:0px;padding:5px 5px 5px 5px;color:#fff;background-color:#3366ff;background-image:url();}
@@ -9,7 +9,7 @@ img {border:0px;max-width:332px;}
 .feed-container .header a:hover{color:#fff;text-decoration:underline;}
 .feed-container .header a:active{color:#fff;text-decoration:none;}
 .feed-container .content{margin:0px;padding:0 3px;background-color:#fff;background-image:url();}
-.feed-container .content .item{margin:0 0 7px 0;padding:0 0 7px 0;border-bottom:1px dashed #CCCCCC;}
+.feed-container .content .item{margin:0 0 7px 0;padding:10px 0 7px 0;border-bottom:1px dashed #CCCCCC;}
 .feed-container .content .item .title{margin:1px 0 1px 3px;padding:1px 2px 1px 3px;color:#55a0ff;font-weight:bold;}
 .feed-container .content .item .title a:link{color:#55a0ff;text-decoration:none;}
 .feed-container .content .item .title a:visited{color:#55a0ff;text-decoration:none;}
